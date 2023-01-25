@@ -1,0 +1,12 @@
+.courseList{
+    margin: 2rem;
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    border: 2px solid #645CBB;
+    margin: 2rem;
+    padding:2rem;
+    color: #82AAE3;
+}
